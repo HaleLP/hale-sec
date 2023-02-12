@@ -1,7 +1,7 @@
 # hale-sec
 
 ![Master](https://github.com/HaleLP/hale-sec/workflows/Tests/badge.svg)
-![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/HaleLP/hale-sec/master)
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/HaleLP/hale-sec/main)
 
 SEC scraper
 
