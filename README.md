@@ -1,4 +1,7 @@
 # hale-sec
+
+![Master](https://github.com/HaleLP/hale-sec/workflows/Tests/badge.svg)
+
 SEC scraper
 
 
