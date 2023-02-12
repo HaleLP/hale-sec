@@ -4,3 +4,5 @@ venv
 scratch_files
 __pycache__
 config.json
+sec-edgar-filings
+.pytest_cache
