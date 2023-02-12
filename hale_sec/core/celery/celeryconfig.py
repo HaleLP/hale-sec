@@ -10,6 +10,9 @@ task_serializer = "pickle"
 result_serializer = "pickle"
 accept_content = ["pickle", "json"]
 result_expires = 60
+worker_hijack_root_logger = False
+worker_redirect_stdouts = False
+worker_log_color = None
 task_routes = {
 
 }
