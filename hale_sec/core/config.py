@@ -135,6 +135,9 @@ class Config:
             'db_name',
             'db_pool_size',
             'log_level',
+            'redis_password',
+            'redis_host',
+            'redis_port',
         ]
 
         for attribute in attrbs:
