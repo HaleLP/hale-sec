@@ -1,0 +1,8 @@
+sqlalchemy
+alembic
+pymysql
+requests
+bs4
+celery[redis]==4.4.7
+influxdb
+lxml
