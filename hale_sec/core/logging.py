@@ -6,7 +6,6 @@ from typing import Text, List
 from hale_sec.core.logfilters import SingleLevelFilter
 
 default_format = '%(asctime)s - %(module)s:%(funcName)s:%(lineno)d - [%(process)d][%(threadName)s] - %(levelname)s: %(message)s'
-image_search_trace_format = '%(asctime)s - %(module)s:%(funcName)s:%(lineno)d - [Search ID: %(search_id)d] - %(levelname)s: %(message)s'
 
 def get_configured_logger(name: Text = None, format: Text = None) -> logging.Logger:
 
